@@ -1,6 +1,6 @@
 # Minimal linting in JavaScript
 
-## November 04, 2021 Class
+## LINTING
 
 -   [ESLint](https://eslint.org/docs/user-guide/getting-started)
 -   [Prettier](https://prettier.io/docs/en/install.html)
@@ -196,4 +196,4 @@ That's it, now you can focus on writing code and improving your code quality tha
 
 -   Run `touch .gitignore` and `echo node_modules >> .gitignore`
 
-## November 05, 2021 Class
+
