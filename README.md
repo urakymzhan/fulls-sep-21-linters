@@ -23,13 +23,12 @@ Example
 {
     "rules": {
         "semi": [2, "always"], // 2 means error
-        "quotes": ["error", "single"],
+        "quotes": ["error", "single",  { avoidEscape: true }],
         "no-var": "error",
         "prefer-const": "error",
     }
 }
 ```
-
 > The names "semi" and "quotes" are the names of rules in ESLint. The first value is the error level of the rule and can be one of these values:
 >
 > -   **"off" or 0** - turn the rule off <br/>
